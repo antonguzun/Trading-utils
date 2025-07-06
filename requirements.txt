@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+ipywidgets
+scipy
+flake8
+black
+pytest
